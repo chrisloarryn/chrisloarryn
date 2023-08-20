@@ -1,0 +1,10 @@
+
+# ignore macOS specific files
+.DS_Store
+
+# ignore intelij project files
+.idea/
+
+# ignore vscode project files
+.vscode/
+
