@@ -34,7 +34,7 @@
 <h2 align="center">My GitHub Language Stats extended</h2>
     
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&theme=dark" alt="chrisloarryn" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&layout=compact&theme=dark" alt="chrisloarryn" /> 
 </p>
 <a style="text-decoration: none; color: gray;" href="#7days" align="center">Details by language</a>
 
