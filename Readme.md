@@ -5,7 +5,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=chrisloarryn&theme=darkhub&row=1" alt="chrisloarryn" />
 </p>
 
-
 ---
 
 <h2 align="center">About Me</h2>
