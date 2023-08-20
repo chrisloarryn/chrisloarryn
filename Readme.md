@@ -32,10 +32,26 @@
 
 ---
 
-<h3 align="left">Technologies:</h3>
+<h2 align="center">My GitHub Language Stats extended</h2>
+    
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&layout=compact&theme=dark" alt="chrisloarryn" /> 
+
+</p>
+<a style="text-decoration: none; color: gray;" href="#7days" align="center">Detalles de los lenguajes</a>
+
+
+
+--- 
+
+<h2 align="center">Languages and Tools</h2>
+
+
+<h3 align="left" >Technologies:</h3>
 <p align="left">
 
-<strong>Programming Languages:</strong> <small>Java, Go, Kotlin, JavaScript, TypeScript, Swift, Dart, etc.</small> <br>
+<h6 style="margin-bottom: -16px">Programming Languages: <small>Java, Go, Kotlin, JavaScript, TypeScript, Swift, Dart, etc.</small></h6>
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -44,7 +60,10 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<strong>ORMs/ODMs:</strong> <small>Spring Data JPA, Hibernate, Mongoose, TypeORM, GORM, MGM, JPA, etc.</small> <br>
+
+
+<h6 style="margin-bottom: -16px">ORMs/ODMs: <small>Spring Data JPA, Hibernate, Mongoose, TypeORM, GORM, MGM, JPA, etc.</small></h6>
+
 ![Mongoose](https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-CC2927?style=for-the-badge&logo=typeorm&logoColor=white)
 ![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -53,7 +72,10 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-F7DF1E?style=for-the-badge&logo=spring&logoColor=white)
 
-<strong>Frameworks/Runtimes/Libraries:</strong> <small>Spring, Spring Boot, Gin, Gorilla, Echo, Fiber, NestJS, Express, Fastify, Vite, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">Frameworks/Runtimes/Libraries: <small>Spring, Spring Boot, Gin, Gorilla, Echo, Fiber, NestJS, Express, Fastify, Vite, etc.</small></h6>
+
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
@@ -78,7 +100,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-<strong>UI Frameworks:</strong> <small>Material UI, Bootstrap, Tailwind CSS, Chakra UI, Ant Design, CSS Modules, Styled System, Styled Components, Emotion, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">UI Frameworks: <small>Material UI, Bootstrap, Tailwind CSS, Chakra UI, Ant Design, CSS Modules, Styled System, Styled Components, Emotion, etc.</small></h6>
+
+
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-0081CB?style=for-the-badge&logo=material-design&logoColor=white)
@@ -92,12 +117,16 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=for-the-badge&logo=emotion&logoColor=white)
 
-<strong>Mobile Frameworks:</strong> <small>Flutter, SwiftUI, UIKit, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">Mobile Frameworks: <small>Flutter, SwiftUI, UIKit, etc.</small></h6>
+
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<strong>SQL & NoSQL:</strong> <small>MySQL, PostgreSQL, MongoDB, MSSQL, DynamoDB, Redis, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">SQL & NoSQL: <small>MySQL, PostgreSQL, MongoDB, MSSQL, DynamoDB, Redis, etc.</small></h6>
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -105,19 +134,27 @@
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-<strong>DevOps Tools:</strong> <small>Git, GitHub, GitLab, Bitbucket, Docker, Docker Compose, Kompose, Kubernetes, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">DevOps Tools: <small>Git, GitHub, GitLab, Bitbucket, Docker, Docker Compose, Kompose, Kubernetes, etc.</small></h6>
+
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kompose](https://img.shields.io/badge/Kompose-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<strong>CI/CD:</strong> <small>GitHub Actions, GitLab CI, Bitbucket Pipelines, Travis CI, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">CI/CD: <small>GitHub Actions, GitLab CI, Bitbucket Pipelines, Travis CI, etc.</small></h6>
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/Travis_CI-3EAAAF?style=for-the-badge&logo=travis-ci&logoColor=white)
 
-<strong>Cloud Providers:</strong> <small>AWS, Azure, Google Cloud, Digital Ocean, Heroku, Netlify, Vercel, Railway, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">Cloud Providers: <small>AWS, Azure, Google Cloud, Digital Ocean, Heroku, Netlify, Vercel, Railway, etc.</small></h6>
+
+
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -126,7 +163,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
 
-<strong>Protocols:</strong> <small>REST API, GraphQL, gRPC, JSON, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">Protocols: <small>REST API, GraphQL, gRPC, JSON, etc.</small></h6>
+
 ![REST API](https://img.shields.io/badge/REST_API-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -144,7 +183,7 @@
 ![Testify](https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=testify&logoColor=white)
 ![GoMock](https://img.shields.io/badge/GoMock-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<h3 align="left">IDE & Code Editors:</h3>
+<h3 align="left" style="margin-top: 12px; margin-bottom: -12px;">IDE & Code Editors:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Idea](https://img.shields.io/badge/IntelliJIDEA-C21325.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -156,20 +195,20 @@
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
 
-<h3 align="left">Version Control:</h3>
+<h3 align="left" style="margin-bottom: -12px;">Version Control:</h3>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-E95420?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-007ACC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-<h3 align="left">Testing Tools:</h3>
+<h3 align="left" style="margin-bottom: -12px;">Testing Tools:</h3>
 
 ![SoapUI](https://img.shields.io/badge/SoapUI-5C2D91?style=for-the-badge&logo=SoapUI&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white)
 
-<h3 align="left">Database Tools:</h3>
+<h3 align="left" style="margin-bottom: -12px;">Database Tools:</h3>
 
 ![DataGrip](https://img.shields.io/badge/DataGrip-5849BE?style=for-the-badge&logo=DataGrip&logoColor=white)
 ![Compass](https://img.shields.io/badge/Compass-47A248?style=for-the-badge&logo=Compass&logoColor=white)
@@ -177,12 +216,12 @@
 ![Robo 3T](https://img.shields.io/badge/Robo_3T-4DB33D?style=for-the-badge&logo=Robo%203T&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-5849BE?style=for-the-badge&logo=DBeaver&logoColor=white)
 
-<h3 align="left">Communication Tools:</h3>
+<h3 align="left" style="margin-bottom: -12px;">Communication Tools:</h3>
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)
 
-<h3 align="left">Project Management:</h3>
+<h3 align="left" style="margin-bottom: -12px;">Project Management:</h3>
 
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white)
@@ -190,7 +229,7 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
 
 
-<h3 align="left">Operating Systems:</h3>
+<h3 align="left" style="margin-bottom: -12px;">Operating Systems:</h3>
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)
@@ -207,18 +246,16 @@
 </p>
 
 ---
-<h2 align="center">GitHub Most Used Languages</h2>
+<h2 align="center">GitHub More Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&layout=compact&theme=dark" alt="chrisloarryn" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisloarryn&show_icons=true&theme=dark&locale=en" alt="chrisloarryn" width="50%" />
 </p>
 
 ---
-<h2 align="center">More GitHub Stats</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisloarryn&show_icons=true&theme=dark&locale=en" alt="chrisloarryn" width="50%" /></p>
 
----
-
-<h2 align="center">GitHub Language Deep Dive last 6</h2>
+<h2 id="7days" align="center">GitHub Language Deep Dive last 7 Days</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=chrisloarryn&theme=dark&layout=compact" alt="chrisloarryn" />
 </p>
+
+--- 
