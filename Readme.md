@@ -1,30 +1,39 @@
+
+Of course! I'd be happy to help you organize your GitHub profile README for better readability. Here's a revised version of your README with improved organization and formatting:
+
+markdown
+Copy code
 <h1 align="center">Hi 👋, I'm Cristobal</h1>
 <h3 align="center">A Software Developer from Chile</h3>
 
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=chrisloarryn&row=1" alt="chrisloarryn" />
-    </a> 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chrisloarryn&row=1" alt="chrisloarryn" />
+  </a>
 </p>
 
-- 🌱 I’m currently learning **SwiftUI and Swift, Spring Boot, Flutter, React.js, Microservices, Domain Driven Design etc.**
+---
 
-- 💬 Ask me about **Java, Spring Boot, Spring Cloud, Microservices, Go, Flutter, Swift, SwiftUI, React.js, Angular, TypeScript, JavaScript, Node.js, NestJS, Docker, Kubernetes, AWS, Azure, GCP, etc.**
+<h2 align="center">About Me</h2>
 
-- 📫 How to reach me **chrisloarryn@gmail.com**
+- 🌱 I’m currently learning **SwiftUI, Spring Boot, Flutter, React.js, Microservices, Domain Driven Design, and more.**
+- 💬 Ask me about a wide range of technologies including **Java, Spring Boot, Go, Flutter, Swift, React.js, AWS, Azure, and more.**
+- 📫 How to reach me: **chrisloarryn@gmail.com**
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/chrisloarryn" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="chrisloarryn" height="30" width="30"/>
-    </a>
-    <a href="https://stackoverflow.com/users/11887610" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="14810239" height="45" width="45" />
-    </a>
-    <a href="https://medium.com/@chrisloarryn" target="_blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@furkanisitan" height="30" width="40" />
-    </a>
+<h2 align="center">Connect with Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/chrisloarryn" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" height="30" width="30"/>
+  </a>
+  <a href="https://stackoverflow.com/users/11887610" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Stack Overflow" height="45" width="45" />
+  </a>
+  <a href="https://medium.com/@chrisloarryn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -137,7 +146,6 @@
 ![Testify](https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=testify&logoColor=white)
 ![GoMock](https://img.shields.io/badge/GoMock-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
----
 <h3 align="left">IDE & Code Editors:</h3>
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Idea](https://img.shields.io/badge/IntelliJIDEA-C21325.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
