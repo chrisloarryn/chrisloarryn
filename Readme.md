@@ -256,3 +256,13 @@
 
 --- 
 
+<h2 align="center">Open Source Projects</h2>
+// https://github.com/nest-modules/mailer/pull/924
+<p align="center">
+  <a href="https://github.com/nest-modules/mailer/pull/924" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisloarryn&repo=mailer&theme=dark" alt="chrisloarryn" />
+  </a>
+  <a href="https://github.com/awran5/react-floating-whatsapp/pull/6" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chrisloarryn&repo=react-floating-whatsapp&theme=dark" alt="chrisloarryn" />
+  </a>
+</p>
