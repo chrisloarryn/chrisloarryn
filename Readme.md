@@ -39,8 +39,6 @@
 </p>
 <a style="text-decoration: none; color: gray;" href="#7days" align="center">Details by language</a>
 
-
-
 --- 
 
 <h2 align="center">Languages and Tools</h2>
