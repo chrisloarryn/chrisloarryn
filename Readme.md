@@ -61,6 +61,7 @@
 ![Gorilla](https://img.shields.io/badge/Gorilla-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Echo](https://img.shields.io/badge/Echo-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-646CFF?style=for-the-badge&logo=deno&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nest JS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -144,6 +145,7 @@
 ![GoMock](https://img.shields.io/badge/GoMock-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <h3 align="left">IDE & Code Editors:</h3>
+
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Idea](https://img.shields.io/badge/IntelliJIDEA-C21325.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-172B4D?style=for-the-badge&logo=WebStorm&logoColor=white)
@@ -155,17 +157,20 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
 
 <h3 align="left">Version Control:</h3>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-E95420?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-007ACC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 <h3 align="left">Testing Tools:</h3>
+
 ![SoapUI](https://img.shields.io/badge/SoapUI-5C2D91?style=for-the-badge&logo=SoapUI&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=Insomnia&logoColor=white)
 
 <h3 align="left">Database Tools:</h3>
+
 ![DataGrip](https://img.shields.io/badge/DataGrip-5849BE?style=for-the-badge&logo=DataGrip&logoColor=white)
 ![Compass](https://img.shields.io/badge/Compass-47A248?style=for-the-badge&logo=Compass&logoColor=white)
 ![NoSQL Booster](https://img.shields.io/badge/NoSQL_Booster-4DB33D?style=for-the-badge&logo=NoSQL%20Booster&logoColor=white)
@@ -173,10 +178,12 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-5849BE?style=for-the-badge&logo=DBeaver&logoColor=white)
 
 <h3 align="left">Communication Tools:</h3>
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)
 
 <h3 align="left">Project Management:</h3>
+
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
@@ -184,6 +191,7 @@
 
 
 <h3 align="left">Operating Systems:</h3>
+
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali%20linux&logoColor=white)
