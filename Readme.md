@@ -38,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&layout=compact&theme=dark" alt="chrisloarryn" /> 
 
 </p>
-<a style="text-decoration: none; color: gray;" href="#7days" align="center">Detalles de los lenguajes</a>
+<a style="text-decoration: none; color: gray;" href="#7days" align="center">Details by language</a>
 
 
 
