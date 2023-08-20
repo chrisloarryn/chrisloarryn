@@ -1,8 +1,3 @@
-
-Of course! I'd be happy to help you organize your GitHub profile README for better readability. Here's a revised version of your README with improved organization and formatting:
-
-markdown
-Copy code
 <h1 align="center">Hi 👋, I'm Cristobal</h1>
 <h3 align="center">A Software Developer from Chile</h3>
 
