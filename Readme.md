@@ -183,6 +183,8 @@
 ![Testify](https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=testify&logoColor=white)
 ![GoMock](https://img.shields.io/badge/GoMock-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
+---
+
 <h3 align="left" style="margin-top: 12px; margin-bottom: -12px;">IDE & Code Editors:</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
