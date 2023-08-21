@@ -162,12 +162,16 @@
 
 <h6 style="margin-bottom: -16px">Protocols: <small>REST API, GraphQL, gRPC, JSON, etc.</small></h6>
 
+
 ![REST API](https://img.shields.io/badge/REST_API-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-<strong>Testing Frameworks:</strong> <small>Jest, Vitest, React Testing Library, Enzyme, JUnit, Mockito, Ginkgo, Gomega, Testify, GoMock, etc.</small> <br>
+
+<h6 style="margin-bottom: -16px">Testing Frameworks: <small>Jest, Vitest, React Testing Library, Enzyme, JUnit, Mockito, Ginkgo, Gomega, Testify, GoMock, etc.</h6>
+
+  
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-F7DF1E?style=for-the-badge&logo=vitest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-20232A?style=for-the-badge&logo=testing-library&logoColor=white)
