@@ -116,10 +116,10 @@
 
 <h6 style="margin-bottom: -16px">Mobile Frameworks: <small>Flutter, SwiftUI, UIKit, etc.</small></h6>
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <h6 style="margin-bottom: -16px">SQL & NoSQL: <small>MySQL, PostgreSQL, MongoDB, MSSQL, DynamoDB, Redis, etc.</small></h6>
 
