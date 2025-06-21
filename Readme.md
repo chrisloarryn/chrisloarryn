@@ -9,7 +9,6 @@
 
 <h2 align="center">About Me</h2>
 
-- 🌱 I’m currently learning **SwiftUI, Spring Boot, React.js, Microservices, Domain Driven Design, and more.**
 - 💬 Ask me about a wide range of technologies including **Java, Spring Boot, Go, Flutter, Swift, React.js, AWS, Azure, and more.**
 - 📫 How to reach me: **chrisloarryn@gmail.com**
 
