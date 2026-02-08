@@ -7,17 +7,14 @@
   <img alt="GitHub stars"    src="https://img.shields.io/github/stars/chrisloarryn?style=social">
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrisloarryn&theme=darkhub&no-frame=true&title=Stars,Followers,Commit,Repositories&margin-w=15&margin-h=15" />
-</p>
-
 ---
 
 ## ✨ Resumen rápido
 - 🏗️ **Trabajo actual**: Desarrollador freelance enfocándome en backends robustos y pipelines CI/CD confiables.
-- 🧠 **Dominio**: Go, Java (Spring Boot 3), Python, TypeScript/NestJS, gRPC (bidirectional & streaming), REST, GraphQL, DAGs.
-- ☁️ **Cloud**: <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="18" height="18" alt="GCP"/> Google Cloud (<img src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg" width="18" height="18" alt="Cloud Run"/> Cloud Run, <img src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg" width="18" height="18" alt="Cloud Functions"/> Cloud Functions, <img src="https://icon.icepanel.io/GCP/svg/PubSub.svg" width="18" height="18" alt="Pub/Sub"/> Pub/Sub, <img src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg" width="18" height="18" alt="Cloud SQL"/> Cloud SQL), AWS, Azure.
-- 🛠️ **Intereses clave**: Arquitectura hexagonal, testing E2E (Karate/k6/Dredd), observabilidad (OpenTelemetry), DevSecOps.
+- 🧠 **Dominio**: <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="18" height="18" alt="Go"/> Go, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="18" height="18" alt="Java"/> Java (Spring Boot 3), <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="18" height="18" alt="Python"/> Python, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="18" height="18" alt="TypeScript"/> TypeScript/<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="18" height="18" alt="NestJS"/> NestJS, gRPC (bidirectional & streaming), REST, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="18" height="18" alt="GraphQL"/> GraphQL, <img src="https://icon.icepanel.io/GCP/svg/Cloud-Composer.svg" width="18" height="18" alt="Cloud Composer"/> DAGs.
+- ☁️ **Cloud**: <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="18" height="18" alt="GCP"/> Google Cloud (<img src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg" width="18" height="18" alt="Cloud Run"/> Cloud Run, <img src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg" width="18" height="18" alt="Cloud Functions"/> Cloud Functions, <img src="https://icon.icepanel.io/GCP/svg/PubSub.svg" width="18" height="18" alt="Pub/Sub"/> Pub/Sub, <img src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg" width="18" height="18" alt="Cloud SQL"/> Cloud SQL), <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="18" height="18" alt="AWS"/> AWS, <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="18" height="18" alt="Azure"/> Azure.
+- 🛠️ **Intereses clave**: <img src="https://cdn.simpleicons.org/hexo" width="18" height="18" alt="Arquitectura hexagonal"/> Arquitectura hexagonal, <img src="https://cdn.simpleicons.org/k6" width="18" height="18" alt="Testing E2E"/> testing E2E (Karate/k6/Dredd), <img src="https://cdn.simpleicons.org/opentelemetry/0ea5e9" width="18" height="18" alt="Observabilidad"/> observabilidad (OpenTelemetry), <img src="https://cdn.simpleicons.org/owasp/0ea5e9" width="18" height="18" alt="DevSecOps"/> DevSecOps.
+- ⚡ **También**: Fan de la tecnología y las energías renovables.
 - 🎯 **Objetivo 2026**: Obtener certificación **Data Engineer** o **Cloud Developer** en <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="18" height="18" alt="GCP"/> GCP.
 - 🗣️ **Idiomas**: Español (nativo), Inglés (B2).
 - 📫 **Contacto rápido**: chrisloarryn@gmail.com
@@ -62,8 +59,23 @@ React (Vite + TS) • Angular • Next.js + React Query • Flutter
 </p>
 Docker Compose • Kubernetes • GitHub Actions • GitLab CI • Terraform • Helm • <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="16" height="16" alt="GCP"/> GCP • AWS • Azure
 
+### Servicios GCP
+<p>
+  <img src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg" width="40" height="40" alt="Cloud Run"/>
+  <img src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg" width="40" height="40" alt="Cloud Functions"/>
+  <img src="https://icon.icepanel.io/GCP/svg/PubSub.svg" width="40" height="40" alt="Pub/Sub"/>
+  <img src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg" width="40" height="40" alt="Cloud SQL"/>
+  <img src="https://icon.icepanel.io/GCP/svg/Cloud-Composer.svg" width="40" height="40" alt="Cloud Composer"/>
+</p>
+Cloud Run (Jobs/Services) • Cloud Functions • Pub/Sub • Cloud SQL • Cloud Composer (DAGs)
+
 ### Uso reciente
-Python • DAGs • Cloud Run Jobs • Cloud Run Services • Automatización de procesos • Orquestación
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://icon.icepanel.io/GCP/svg/Cloud-Composer.svg" width="40" height="40" alt="Cloud Composer"/>
+  <img src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg" width="40" height="40" alt="Cloud Run"/>
+</p>
+Python • DAGs (Cloud Composer) • Cloud Run Jobs/Services • Automatización de procesos • Orquestación
 
 ### Bases de Datos & Mensajería
 <p>
@@ -84,8 +96,10 @@ PostgreSQL • MySQL • MongoDB • Redis • Elasticsearch • Pub/Sub • Rab
 
 ## 📈 Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisloarryn&show_icons=true&theme=radical&count_private=true" width="425"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&layout=compact&theme=radical" width="425"/>
+  <img src="https://streak-stats.demolab.com/?user=chrisloarryn&theme=radical&hide_border=true" width="425" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/00adff/chrisloarryn" width="850" alt="GitHub Contribution Chart"/>
 </p>
 
 ---
