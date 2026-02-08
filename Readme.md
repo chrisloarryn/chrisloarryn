@@ -1,6 +1,6 @@
 <!-- README.md — @chrisloarryn -->
 <h1 align="center">¡Hola, soy Cristóbal 👋!</h1>
-<h3 align="center">Desarrollador Freelance, amante del clean code y la automatización — 🇨🇱 Chile</h3>
+<h3 align="center">Desarrollador freelance | Clean Code, Automatización y Arquitecturas robustas — 🇨🇱 Chile</h3>
 
 <p align="center">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/chrisloarryn?style=social">
@@ -13,14 +13,22 @@
 
 ---
 
-## 🚀 Sobre mí
-- 🏗️ **Trabajo actual**: **Desarrollador freelance** enfocándome en backends robustos y pipelines CI/CD confiables.
-- 🧠 **Lo que domino**: Go, Java (Spring Boot 3), Python, TypeScript/NestJS, gRPC (bidirectional & streaming), REST, GraphQL.
-- ☁️ **Cloud**: Google Cloud (Cloud Run, Cloud Functions, Pub/Sub, Cloud SQL), AWS, Azure.
-- 🛠️ **Intereses**: Arquitectura hexagonal, testing de extremo a extremo con Karate/k6/Dredd, observabilidad con OpenTelemetry, DevSecOps.
-- 🎯 **Objetivo 2025**: Publicar una suite OSS de orquestación de pruebas multi-herramienta y comenzar un blog en español sobre FinOps y vehículos eléctricos.
+## ✨ Resumen rápido
+- 🏗️ **Trabajo actual**: Desarrollador freelance enfocándome en backends robustos y pipelines CI/CD confiables.
+- 🧠 **Dominio**: Go, Java (Spring Boot 3), Python, TypeScript/NestJS, gRPC (bidirectional & streaming), REST, GraphQL, DAGs.
+- ☁️ **Cloud**: <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="18" height="18" alt="GCP"/> Google Cloud (<img src="https://icon.icepanel.io/GCP/svg/Cloud-Run.svg" width="18" height="18" alt="Cloud Run"/> Cloud Run, <img src="https://icon.icepanel.io/GCP/svg/Cloud-Functions.svg" width="18" height="18" alt="Cloud Functions"/> Cloud Functions, <img src="https://icon.icepanel.io/GCP/svg/PubSub.svg" width="18" height="18" alt="Pub/Sub"/> Pub/Sub, <img src="https://icon.icepanel.io/GCP/svg/Cloud-SQL.svg" width="18" height="18" alt="Cloud SQL"/> Cloud SQL), AWS, Azure.
+- 🛠️ **Intereses clave**: Arquitectura hexagonal, testing E2E (Karate/k6/Dredd), observabilidad (OpenTelemetry), DevSecOps.
+- 🎯 **Objetivo 2026**: Obtener certificación **Data Engineer** o **Cloud Developer** en <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="18" height="18" alt="GCP"/> GCP.
 - 🗣️ **Idiomas**: Español (nativo), Inglés (B2).
 - 📫 **Contacto rápido**: chrisloarryn@gmail.com
+
+---
+
+## 🧭 En qué te puedo ayudar
+- **Diseño y construcción de backends**: APIs confiables con gRPC/REST/GraphQL y buenas prácticas de arquitectura.
+- **Calidad y pruebas**: estrategia E2E con herramientas multi-stack y pipelines repetibles.
+- **Observabilidad**: métricas, trazas y logging con un enfoque práctico en operación y diagnósticos.
+- **CI/CD y automatización**: pipelines robustos, reproducibles y simples de mantener.
 
 ---
 
@@ -33,6 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="NodeJS"/>
 </p>
+Go • Java • Python • Node.js
+
 gRPC (unary & streaming) • REST • GraphQL • Spring Boot • NestJS
 
 ### Frontend / Mobile
@@ -50,7 +60,10 @@ React (Vite + TS) • Angular • Next.js + React Query • Flutter
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"                       width="48" height="48" alt="GCP"/>
 </p>
-Docker Compose • Kubernetes • GitHub Actions • GitLab CI • Terraform • Helm • GCP • AWS • Azure
+Docker Compose • Kubernetes • GitHub Actions • GitLab CI • Terraform • Helm • <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="16" height="16" alt="GCP"/> GCP • AWS • Azure
+
+### Uso reciente
+Python • DAGs • Cloud Run Jobs • Cloud Run Services • Automatización de procesos • Orquestación
 
 ### Bases de Datos & Mensajería
 <p>
@@ -78,7 +91,7 @@ PostgreSQL • MySQL • MongoDB • Redis • Elasticsearch • Pub/Sub • Rab
 ---
 
 ## 🤝 ¡Colaboremos!
-Me entusiasman los proyectos que desafían la arquitectura tradicional, integran **microservicios**, **gRPC**, **observabilidad** y pruebas automatizadas de alto nivel.  
+Me entusiasman los proyectos que desafían la arquitectura tradicional e integran **microservicios**, **gRPC**, **observabilidad** y **pruebas automatizadas** de alto nivel.  
 Si necesitas ayuda o quieres intercambiar ideas, ¡escríbeme!
 
 ---
