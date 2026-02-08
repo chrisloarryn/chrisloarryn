@@ -45,14 +45,13 @@ Go • Java • Python • Node.js
 
 gRPC (unary & streaming) • REST • GraphQL • Spring Boot • NestJS
 
-### Frontend / Mobile
+### Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"  width="48" height="48" alt="React"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="48" height="48" alt="Angular"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="48" height="48" alt="Next.js"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"                             width="48" height="48" alt="Flutter"/>
 </p>
-React (Vite + TS) • Angular • Next.js + React Query • Flutter
+React (Vite + TS) • Angular • Next.js + React Query
 
 ### DevOps & Cloud
 <p>
