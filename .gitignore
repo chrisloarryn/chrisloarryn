@@ -8,3 +8,5 @@
 # ignore vscode project files
 .vscode/
 
+# ignore overleaf_*
+overleaf_*
