@@ -16,10 +16,22 @@
 </p>
 
 <p align="center">
-  <img alt="Based in Chile" src="https://img.shields.io/badge/Based_in-Chile-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8">
-  <img alt="Remote friendly" src="https://img.shields.io/badge/Remote-Friendly-0F172A?style=flat-square&logo=icloud&logoColor=38BDF8">
-  <img alt="Experience" src="https://img.shields.io/badge/Experience-6%2B_years-0F172A?style=flat-square&logo=clockify&logoColor=38BDF8">
-  <img alt="Languages" src="https://img.shields.io/badge/Languages-Spanish_%7C_English_B2-0F172A?style=flat-square&logo=googletranslate&logoColor=38BDF8">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Based_in-Chile-334155?style=flat-square&logo=googlemaps&logoColor=38BDF8">
+    <img alt="Based in Chile" src="https://img.shields.io/badge/Based_in-Chile-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Remote-Friendly-334155?style=flat-square&logo=icloud&logoColor=38BDF8">
+    <img alt="Remote friendly" src="https://img.shields.io/badge/Remote-Friendly-0F172A?style=flat-square&logo=icloud&logoColor=38BDF8">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Experience-6%2B_years-334155?style=flat-square&logo=clockify&logoColor=38BDF8">
+    <img alt="Experience" src="https://img.shields.io/badge/Experience-6%2B_years-0F172A?style=flat-square&logo=clockify&logoColor=38BDF8">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Languages-Spanish_%7C_English_B2-334155?style=flat-square&logo=googletranslate&logoColor=38BDF8">
+    <img alt="Languages" src="https://img.shields.io/badge/Languages-Spanish_%7C_English_B2-0F172A?style=flat-square&logo=googletranslate&logoColor=38BDF8">
+  </picture>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=chrisloarryn&color=0EA5E9&style=flat-square&label=Profile+Views">
 </p>
 
@@ -136,16 +148,28 @@ Across education, fintech, retail, healthcare, and telecom projects, I have work
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisloarryn&show_icons=true&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=0EA5E9&text_color=0F172A&ring_color=0EA5E9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&layout=compact&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=0F172A" alt="Top Languages" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=chrisloarryn&show_icons=true&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=0EA5E9&text_color=C9D1D9&ring_color=0EA5E9" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chrisloarryn&show_icons=true&hide_border=true&bg_color=00000000&title_color=0EA5E9&icon_color=0EA5E9&text_color=0F172A&ring_color=0EA5E9" alt="GitHub Stats" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&layout=compact&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=C9D1D9" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisloarryn&layout=compact&hide_border=true&bg_color=00000000&title_color=0EA5E9&text_color=0F172A" alt="Top Languages" height="170" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chrisloarryn&theme=transparent&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0F172A&sideNums=0F172A&currStreakNum=0F172A&dates=64748B" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=chrisloarryn&theme=transparent&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com?user=chrisloarryn&theme=transparent&hide_border=true&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0F172A&sideNums=0F172A&currStreakNum=0F172A&dates=64748B" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisloarryn&bg_color=00000000&color=0F172A&line=0EA5E9&point=0F172A&area=true&area_color=0EA5E9&hide_border=true" alt="Activity Graph" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=chrisloarryn&bg_color=00000000&color=C9D1D9&line=0EA5E9&point=C9D1D9&area=true&area_color=0EA5E9&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisloarryn&bg_color=00000000&color=0F172A&line=0EA5E9&point=0F172A&area=true&area_color=0EA5E9&hide_border=true" alt="Activity Graph" width="95%" />
+  </picture>
 </p>
 
 <p align="center">
