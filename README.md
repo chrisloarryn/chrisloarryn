@@ -1,7 +1,7 @@
 <!-- README.md - @chrisloarryn -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Hey+there%2C+I'm+Cristobal+Contreras+%F0%9F%91%8B;Backend-focused+Full+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=Hey+there%2C+I'm+Cristobal+Contreras+%F0%9F%91%8B;Backend-focused+Full+Stack+Engineer" alt="Hey there, I'm Cristobal Contreras 👋 — Backend-focused Full Stack Engineer" />
 </p>
 
 <p align="center">
